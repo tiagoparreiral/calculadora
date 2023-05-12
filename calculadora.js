@@ -7,7 +7,7 @@ while (operacao !== "sair") {
 
   if (operacao !== "sair") {
     num1 = Number(prompt("Digite o primeiro valor:"));
-    num2 = Number(prompt("Digite o segundo número:"));
+    num2 = Number(prompt("Digite o segundo valor:"));
 
     switch (operacao) {
       case "+":
