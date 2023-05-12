@@ -3,7 +3,7 @@ let num1;
 let num2;
 
 while (operacao !== "sair") {
-  operacao = prompt("Qual operação deseja realizar? (+, -, *, / ou sair)");
+  operacao = prompt("Qual operação gostaria de realizar? (+, -, *, / ou sair)");
 
   if (operacao !== "sair") {
     num1 = Number(prompt("Digite o primeiro valor:"));
