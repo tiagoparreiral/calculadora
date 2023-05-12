@@ -6,7 +6,7 @@ while (operacao !== "sair") {
   operacao = prompt("Qual operação deseja realizar? (+, -, *, / ou sair)");
 
   if (operacao !== "sair") {
-    num1 = Number(prompt("Digite o primeiro número:"));
+    num1 = Number(prompt("Digite o primeiro valor:"));
     num2 = Number(prompt("Digite o segundo número:"));
 
     switch (operacao) {
