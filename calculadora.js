@@ -29,7 +29,7 @@ while (operacao !== "sair") {
   }
 }
 
-console.log("Até a próxima!");
+console.log("Até uma próxima!");
 
 function soma(a, b) {
   return a + b;
